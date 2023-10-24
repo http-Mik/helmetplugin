@@ -1,0 +1,8 @@
+name: HelmetPlugin
+version: '${project.version}'
+main: me.mik.helmetplugin.HelmetPlugin
+api-version: '1.19'
+commands:
+  helmetplugin:
+    description: Überprüft die Berechtigungen und gibt farbige Lederhüte.
+
